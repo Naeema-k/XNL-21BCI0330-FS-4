@@ -30,7 +30,7 @@ A Next.js-based decentralized freelance marketplace where clients and freelancer
 
 ---
 
-## Tech Stack 🛠
+## Tech Stack 
 
 | Category       | Technologies                                                                 |
 |----------------|-----------------------------------------------------------------------------|
